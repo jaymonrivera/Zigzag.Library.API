@@ -5,7 +5,6 @@ using Zigzag.Library.API.Controllers.Features.Books.Dtos;
 using Zigzag.Library.API.Model;
 using Zigzag.Library.API.Repository;
 using Zigzag.Library.API.Services;
-using static System.Reflection.Metadata.BlobBuilder;
 
 namespace Zigzag.Library.API.Controllers.Features.Books;
 
